@@ -1,11 +1,13 @@
 # ASD-AuDHD-PAI-Skill
 
-This is a collection of Skills for your Personal AI Infrastructure and mobile apps like Claude Mobile useful for parents of children of autism spectrum disorders, or anyone else that has demand avoidance tendencies. Don't be surprised if your DA uses it when planning your day. 
+This is a collection of Skills for your Personal AI Infrastructure and mobile apps like Claude Mobile useful for individuals or parents of children with Demand-Avoidance variants of autism spectrum disorders, or anyone else that has demand avoidance tendencies. Don't be surprised if your DA uses it when planning your day. 
 
 I have a PAI with a DA named Sundae. I write about AI as assistive technology on LinkedIn and a Substack called _Sporage_ that you may enjoy reading. 
 
 - My PAI is built using Daniel Miessler's [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure/).
 - [Sporage](https://sporage.substack.com/) is my Substack where a series of articles about AI as assistive technology.
+
+Note: _I considered calling this `ClAuDHD-Skills`, but it wasn't easy to understand._
 
 ## How to Use
 
